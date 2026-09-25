@@ -1,12 +1,12 @@
 {
   "channel": "stable",
   "package": "com.controlboxmix",
-  "versionName": "1.0.3",
-  "versionCode": 38,
+  "versionName": "1.0.4",
+  "versionCode": 39,
   "apkPath": "/apks/ControlboxMix.apk",
-  "sha256": "e2fea57d161a8f0a3d78f5a2867e98857c06500419c46487ccb2c2e8d03d8781",
+  "sha256": "123bd9cbe380ef8fc91ef9a551854401d1d7042087e409b0407348b2bea41502",
   "certificateSha256": "0580cf22b2f42bf7b3f2bb5701164b1d09a4d455bc6207e4e4739bf3ff8e785c",
-  "sizeBytes": 27695371,
+  "sizeBytes": 27695433,
   "minSdk": 23,
   "maxSdk": 35,
   "mandatory": false
